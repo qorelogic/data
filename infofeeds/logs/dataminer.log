@@ -1,0 +1,596 @@
+==========
+Sat Sep 19 20:15:01 EDT 2015
+{'name': 'AUD/USD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CHF', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/USD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/USD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'NZD/USD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '1', 'summary': 'BUY'}
+{'name': 'USD/CAD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/JPY', 'period': '2678400', 'summary': 'NEUTRAL'}
+{'name': 'EUR/CAD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/GBP', 'period': '1', 'summary': 'NEUTRAL'}
+{'name': 'AUD/JPY', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '1', 'summary': 'BUY'}
+{'name': 'USD/HKD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/JPY', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'GBP/JPY', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CHF', 'period': '1440', 'summary': 'BUY'}
+{'name': 'AUD/CHF', 'period': '604800', 'summary': 'SELL'}
+{'name': 'AUD/CHF', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CHF', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CHF', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CHF', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'USD/RUB', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'USD/RUB', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'USD/RUB', 'period': '300', 'summary': 'BUY'}
+{'name': 'USD/RUB', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'USD/RUB', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'EUR/AUD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'USD/RUB', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'USD/RUB', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CHF', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'EUR/AUD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/AUD', 'period': '15', 'summary': 'SELL'}
+{'name': 'EUR/AUD', 'period': '5', 'summary': 'BUY'}
+{'name': 'GBP/JPY', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'GBP/JPY', 'period': '300', 'summary': 'SELL'}
+{'name': 'GBP/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'GBP/JPY', 'period': '15', 'summary': 'NEUTRAL'}
+{'name': 'GBP/JPY', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'EUR/AUD', 'period': '1440', 'summary': 'SELL'}
+{'name': 'USD/HKD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'GBP/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'USD/HKD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'GBP/JPY', 'period': '5', 'summary': 'BUY'}
+{'name': 'USD/HKD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'EUR/GBP', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '2678400', 'summary': 'NEUTRAL'}
+{'name': 'AUD/JPY', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '300', 'summary': 'NEUTRAL'}
+{'name': 'AUD/JPY', 'period': '1440', 'summary': 'BUY'}
+{'name': 'AUD/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'EUR/CAD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'EUR/CAD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '300', 'summary': 'BUY'}
+{'name': 'EUR/CAD', 'period': '15', 'summary': 'NEUTRAL'}
+{'name': 'EUR/CAD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '30', 'summary': 'BUY'}
+{'name': 'NZD/USD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'NZD/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'EUR/JPY', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'EUR/JPY', 'period': '604800', 'summary': 'SELL'}
+{'name': 'EUR/JPY', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'EUR/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '60', 'summary': 'BUY'}
+{'name': 'USD/JPY', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'USD/JPY', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'USD/JPY', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'USD/CAD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'USD/JPY', 'period': '604800', 'summary': 'SELL'}
+{'name': 'USD/CAD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'USD/JPY', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'USD/JPY', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '2678400', 'summary': 'SELL'}
+{'name': 'GBP/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'GBP/USD', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'GBP/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'GBP/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'GBP/USD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'EUR/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '300', 'summary': 'NEUTRAL'}
+{'name': 'EUR/USD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'EUR/CHF', 'period': '2678400', 'summary': 'SELL'}
+{'name': 'EUR/CHF', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '1440', 'summary': 'BUY'}
+{'name': 'EUR/CHF', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '604800', 'summary': 'BUY'}
+{'name': 'EUR/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '300', 'summary': 'BUY'}
+{'name': 'AUD/CAD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '2678400', 'summary': 'BUY'}
+{'name': 'AUD/CAD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'CAD/CHF', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'NZD/CAD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'CAD/CHF', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'EUR/NZD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'GBP/NZD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'GBP/CHF', 'period': '2678400', 'summary': 'BUY'}
+{'name': 'GBP/CHF', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '604800', 'summary': 'SELL'}
+{'name': 'XAU/USD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'XAU/USD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'GBP/NZD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'GBP/NZD', 'period': '5', 'summary': 'BUY'}
+{'name': 'GBP/NZD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'GBP/CHF', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '15', 'summary': 'NEUTRAL'}
+{'name': 'GBP/CHF', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '300', 'summary': 'NEUTRAL'}
+{'name': 'GBP/CHF', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'GBP/CHF', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '604800', 'summary': 'SELL'}
+{'name': 'GBP/AUD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'XAG/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'GBP/AUD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'CAD/CHF', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'XAG/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '30', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '30', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '300', 'summary': 'SELL'}
+{'name': 'NZD/JPY', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'GBP/AUD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'CAD/CHF', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '1', 'summary': 'BUY'}
+{'name': 'CAD/CHF', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '15', 'summary': 'BUY'}
+{'name': 'NZD/JPY', 'period': '30', 'summary': 'SELL'}
+{'name': 'NZD/JPY', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'NZD/JPY', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'NZD/JPY', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'NZD/CAD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '15', 'summary': 'SELL'}
+{'name': 'NZD/CAD', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'NZD/CAD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'NZD/CAD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'AUD/NZD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '300', 'summary': 'SELL'}
+{'name': 'AUD/NZD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CAD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CAD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '5', 'summary': 'NEUTRAL'}
+name    AUD/CAD AUD/CHF AUD/JPY AUD/NZD AUD/USD CAD/CHF CHF/JPY EUR/AUD  \
+period                                                                    
+1            -2       1      -2       2      -2       1       1       2   
+5             0       0      -2       0      -2       0       0       1   
+15            2       2      -2      -2      -2       1      -2      -1   
+30            2       2      -2      -2      -2       0      -2      -2   
+60            2       2      -2      -2      -2       0      -2      -2   
+300           2       2       0      -1       1      -1      -2      -2   
+1440          2       1       1       2       1      -2      -2      -1   
+604800        0      -1      -2       2      -2      -2      -2       2   
+2678400      -2      -2      -2       1      -2      -2       0       2   
+
+name    EUR/CAD EUR/CHF   ...   GBP/USD NZD/CAD NZD/JPY NZD/USD USD/CAD  \
+period                    ...                                             
+1             2      -2   ...        -2       2      -2      -2       2   
+5             2      -2   ...        -2       2      -2      -2       2   
+15            0      -2   ...        -2       2      -1      -2       2   
+30            1      -2   ...        -2       2      -1      -2       2   
+60            0      -2   ...        -2       2       2       0       2   
+300           1      -2   ...         2       2       2       2       2   
+1440          2       1   ...         2       0       0       1       0   
+604800        2       1   ...         0      -2      -2      -2       2   
+2678400       2      -1   ...        -1      -2      -2      -2       2   
+
+name    USD/HKD USD/JPY USD/RUB XAG/USD XAU/USD  
+period                                           
+1            -2       2      -2       2       2  
+5            -2       2       0       2       2  
+15           -2       2       2       2       2  
+30           -2       2       2       0       2  
+60           -2       1       2       0       2  
+300          -2      -2       1       2       2  
+1440         -2      -2       0       2       2  
+604800       -2      -1       2      -1      -1  
+2678400      -2       2       2      -2      -2  
+
+[9 rows x 28 columns]
+
+                   1                pa
+0                                     
+USDHKDvall--18.0 -18  USDHKDvall--18.0
+USDCAD^all-16.0   16   USDCAD^all-16.0
+GBPCHF^all-17.0   17   GBPCHF^all-17.0
+==========
+==========
+Sat Sep 19 20:30:01 EDT 2015
+{'name': 'USD/JPY', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/USD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/USD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'NZD/USD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'USD/CAD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/USD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '2678400', 'summary': 'NEUTRAL'}
+{'name': 'EUR/JPY', 'period': '604800', 'summary': 'SELL'}
+{'name': 'EUR/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '1', 'summary': 'NEUTRAL'}
+{'name': 'EUR/JPY', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '1', 'summary': 'BUY'}
+{'name': 'USD/RUB', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/JPY', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '604800', 'summary': 'SELL'}
+{'name': 'AUD/CHF', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CHF', 'period': '1440', 'summary': 'BUY'}
+{'name': 'EUR/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CHF', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'EUR/GBP', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CHF', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'EUR/GBP', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CHF', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'EUR/GBP', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/GBP', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'EUR/GBP', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/GBP', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'USD/RUB', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'USD/HKD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'USD/HKD', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '300', 'summary': 'BUY'}
+{'name': 'USD/HKD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'USD/RUB', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'USD/RUB', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'EUR/GBP', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '2678400', 'summary': 'NEUTRAL'}
+{'name': 'CHF/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'USD/HKD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '1440', 'summary': 'BUY'}
+{'name': 'AUD/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'CHF/JPY', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'AUD/JPY', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'AUD/JPY', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CAD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '30', 'summary': 'BUY'}
+{'name': 'AUD/JPY', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CAD', 'period': '15', 'summary': 'NEUTRAL'}
+{'name': 'AUD/JPY', 'period': '300', 'summary': 'NEUTRAL'}
+{'name': 'EUR/AUD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '300', 'summary': 'BUY'}
+{'name': 'EUR/AUD', 'period': '1440', 'summary': 'SELL'}
+{'name': 'EUR/AUD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/AUD', 'period': '15', 'summary': 'SELL'}
+{'name': 'GBP/JPY', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'GBP/JPY', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'EUR/AUD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'EUR/AUD', 'period': '5', 'summary': 'BUY'}
+{'name': 'GBP/JPY', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'GBP/JPY', 'period': '15', 'summary': 'NEUTRAL'}
+{'name': 'GBP/JPY', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'GBP/JPY', 'period': '5', 'summary': 'BUY'}
+{'name': 'AUD/JPY', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CAD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/AUD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CAD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'CHF/JPY', 'period': '1', 'summary': 'BUY'}
+{'name': 'GBP/JPY', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '604800', 'summary': 'BUY'}
+{'name': 'GBP/JPY', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'EUR/CHF', 'period': '1440', 'summary': 'BUY'}
+{'name': 'EUR/CHF', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '2678400', 'summary': 'SELL'}
+{'name': 'EUR/CHF', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'GBP/JPY', 'period': '300', 'summary': 'SELL'}
+{'name': 'USD/JPY', 'period': '604800', 'summary': 'SELL'}
+{'name': 'USD/JPY', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'EUR/CHF', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '60', 'summary': 'BUY'}
+{'name': 'USD/JPY', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'USD/JPY', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'AUD/USD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'AUD/USD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '300', 'summary': 'BUY'}
+{'name': 'AUD/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '300', 'summary': 'NEUTRAL'}
+{'name': 'EUR/USD', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'EUR/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'AUD/USD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'USD/JPY', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'EUR/USD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'EUR/USD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'GBP/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'EUR/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'GBP/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'GBP/USD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '2678400', 'summary': 'SELL'}
+{'name': 'NZD/USD', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'NZD/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'GBP/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'NZD/USD', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'USD/CAD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'NZD/USD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'NZD/USD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'USD/CAD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'USD/CAD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'NZD/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'USD/CAD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'EUR/JPY', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'USD/CAD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'EUR/JPY', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '2678400', 'summary': 'BUY'}
+{'name': 'AUD/CAD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'AUD/CAD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '604800', 'summary': 'NEUTRAL'}
+{'name': 'GBP/AUD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'XAU/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'XAU/USD', 'period': '604800', 'summary': 'SELL'}
+{'name': 'XAG/USD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'GBP/NZD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '2678400', 'summary': 'STRONG BUY'}
+{'name': 'CAD/CHF', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'GBP/AUD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '2678400', 'summary': 'BUY'}
+{'name': 'NZD/CAD', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'CAD/CHF', 'period': '1440', 'summary': 'STRONG SELL'}
+{'name': 'CAD/CHF', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '30', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '300', 'summary': 'SELL'}
+{'name': 'GBP/NZD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '1440', 'summary': 'BUY'}
+{'name': 'CAD/CHF', 'period': '2678400', 'summary': 'STRONG SELL'}
+{'name': 'GBP/NZD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'CAD/CHF', 'period': '15', 'summary': 'BUY'}
+{'name': 'GBP/NZD', 'period': '15', 'summary': 'NEUTRAL'}
+{'name': 'CAD/CHF', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'GBP/NZD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'NZD/CAD', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'NZD/CAD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'CAD/CHF', 'period': '1', 'summary': 'BUY'}
+{'name': 'GBP/NZD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/NZD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'NZD/CAD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'GBP/NZD', 'period': '5', 'summary': 'BUY'}
+{'name': 'NZD/CAD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'NZD/CAD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '60', 'summary': 'NEUTRAL'}
+{'name': 'XAU/USD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'XAU/USD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '604800', 'summary': 'SELL'}
+{'name': 'XAU/USD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '30', 'summary': 'NEUTRAL'}
+{'name': 'GBP/CHF', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/CHF', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'XAG/USD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'NZD/JPY', 'period': '300', 'summary': 'STRONG BUY'}
+{'name': 'NZD/JPY', 'period': '604800', 'summary': 'STRONG SELL'}
+{'name': 'NZD/JPY', 'period': '5', 'summary': 'STRONG SELL'}
+{'name': 'NZD/JPY', 'period': '30', 'summary': 'SELL'}
+{'name': 'NZD/JPY', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'NZD/JPY', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '300', 'summary': 'STRONG SELL'}
+{'name': 'GBP/AUD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '5', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '1440', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CAD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '300', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CAD', 'period': '15', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'GBP/AUD', 'period': '1', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '30', 'summary': 'STRONG BUY'}
+{'name': 'AUD/CAD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'AUD/CAD', 'period': '1', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'AUD/NZD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '1440', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'EUR/NZD', 'period': '5', 'summary': 'NEUTRAL'}
+{'name': 'AUD/NZD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '15', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '604800', 'summary': 'STRONG BUY'}
+{'name': 'AUD/NZD', 'period': '300', 'summary': 'SELL'}
+{'name': 'NZD/JPY', 'period': '15', 'summary': 'SELL'}
+{'name': 'EUR/NZD', 'period': '60', 'summary': 'STRONG SELL'}
+{'name': 'EUR/NZD', 'period': '30', 'summary': 'STRONG SELL'}
+{'name': 'GBP/CHF', 'period': '60', 'summary': 'STRONG BUY'}
+{'name': 'EUR/NZD', 'period': '1440', 'summary': 'BUY'}
+name    AUD/CAD AUD/CHF AUD/JPY AUD/NZD AUD/USD CAD/CHF CHF/JPY EUR/AUD  \
+period                                                                    
+1            -2       1      -2       2      -2       1       1       2   
+5             0       0      -2       0      -2       0       0       1   
+15            2       2      -2      -2      -2       1      -2      -1   
+30            2       2      -2      -2      -2       0      -2      -2   
+60            2       2      -2      -2      -2       0      -2      -2   
+300           2       2       0      -1       1      -1      -2      -2   
+1440          2       1       1       2       1      -2      -2      -1   
+604800        0      -1      -2       2      -2      -2      -2       2   
+2678400      -2      -2      -2       1      -2      -2       0       2   
+
+name    EUR/CAD EUR/CHF   ...   GBP/USD NZD/CAD NZD/JPY NZD/USD USD/CAD  \
+period                    ...                                             
+1             2      -2   ...        -2       2      -2      -2       2   
+5             2      -2   ...        -2       2      -2      -2       2   
+15            0      -2   ...        -2       2      -1      -2       2   
+30            1      -2   ...        -2       2      -1      -2       2   
+60            0      -2   ...        -2       2       2       0       2   
+300           1      -2   ...         2       2       2       2       2   
+1440          2       1   ...         2       0       0       1       0   
+604800        2       1   ...         0      -2      -2      -2       2   
+2678400       2      -1   ...        -1      -2      -2      -2       2   
+
+name    USD/HKD USD/JPY USD/RUB XAG/USD XAU/USD  
+period                                           
+1            -2       2      -2       2       2  
+5            -2       2       0       2       2  
+15           -2       2       2       2       2  
+30           -2       2       2       0       2  
+60           -2       1       2       0       2  
+300          -2      -2       1       2       2  
+1440         -2      -2       0       2       2  
+604800       -2      -1       2      -1      -1  
+2678400      -2       2       2      -2      -2  
+
+[9 rows x 28 columns]
+
+                   1                pa
+0                                     
+USDHKDvall--18.0 -18  USDHKDvall--18.0
+USDCAD^all-16.0   16   USDCAD^all-16.0
+GBPCHF^all-17.0   17   GBPCHF^all-17.0
+==========
